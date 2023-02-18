@@ -1,0 +1,37 @@
+.swipeButtons {
+    position: fixed;
+    bottom: 10vh ;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+
+
+.s-btn{
+    background: white !important;
+    padding: 3vw !important;
+    box-shadow: 0px 10px 50px  rgb(0, 0, 0, 0.5);
+    border-radius: 50% !important;
+
+}
+
+.swipeButtons-repeat {
+    color: #f5b748 !important;
+}
+
+.swipeButtons-left {
+    color: #ec5e6f !important;
+}
+
+.swipeButtons-star {
+    color: #62b4f9 !important;
+}
+
+.swipeButtons-right {
+    color: #76e2b3 !important;
+}
+
+.swipeButtons-lightning {
+    color: #915dd1 !important;
+}
